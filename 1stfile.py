@@ -25,3 +25,7 @@ elif(percentage>=40):
     print("Grade is C")
 else:
     print("Ahh!Sorry.WE WANNA SEE YOU NEXT TIME ")
+
+
+print("SORRYY BOYYYY " \
+"")
